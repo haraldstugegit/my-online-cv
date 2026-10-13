@@ -53,3 +53,8 @@ Thumbs.db
 /scripts/portrait-flow/out/
 __pycache__/
 *.py[cod]
+
+CLAUDE.md
+
+# source photo for the portrait bake (the baked public/portrait-flow.bin is committed)
+/assets/

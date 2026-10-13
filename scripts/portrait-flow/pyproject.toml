@@ -1,0 +1,10 @@
+[project]
+name = "portrait-flow"
+version = "0.1.0"
+description = "Bakes the globe-to-portrait dot animation for the portfolio outro."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.14",
+    "pillow>=11.0",
+]
